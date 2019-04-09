@@ -1,6 +1,10 @@
 # 百度网盘直链下载助手
 ![TamperMonkey v4.5](https://img.shields.io/badge/TamperMonkey-v4.8-brightgreen.svg) ![Chrome x64 v60.4](https://img.shields.io/badge/Chrome%20x64-v73.0-brightgreen.svg) ![Safari v11.0.3](https://img.shields.io/badge/Safari%20-v12.0-brightgreen.svg)
 
+hz note: Mac的idm chrome安装下载地址：https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek/related
+
+hz note: 该repo解决了无须客户端即可在线下载百度云的大文件，但是我在Mac上测试速度和直接用客户端下载一样比较慢。
+
 ### 使用必读
 
 [脚本使用说明](https://github.com/syhyz1990/baiduyun/blob/master/help.md)
