@@ -3,7 +3,7 @@
 
 hz note: Mac的idm chrome安装下载地址：https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek/related
 
-hz note: 该repo解决了无须客户端即可在线下载百度云的大文件，我在Mac上测试上传速度（没有使用AntDM加速），比客户端上传快太多太多（客户端30kb/s，网页几百kb/s）。
+hz note: 该repo解决了无须客户端即可在线下载百度云的大文件，我在Mac上测试网页上传速度（没有使用AntDM加速），比客户端上传快太多太多（客户端30kb/s，网页几百kb/s）。下载速度暂时没有比较。
 
 ### 使用必读
 
